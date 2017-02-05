@@ -1,4 +1,9 @@
 # Created by ioluwayo on 2017-02-01.
+"""
+This program translates a nucleotide sequence into its corresponding amino acid sequence.
+I have written a more robust and interesting version of this same program in the past.
+See https://github.com/ioluwayo/hackerank_challenge/tree/master/dna_mutation
+"""
 def translateToAminoAcid(nucleotideSequence):
     letters = ('G', 'A', 'C', 'T')
     nucleotides = []
