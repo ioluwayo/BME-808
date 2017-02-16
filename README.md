@@ -6,7 +6,7 @@ In part B of lab 2, The task is to write a python script that translates a nucle
 see [DNA mutation](https://github.com/ioluwayo/hackerank_challenge/tree/master/dna_mutation) for a more robust implementation
 ### Lab 3 ###
 In lab 3 the task is to write a python program that does 2 things.
-1. it first counts the number of 'N's and 'A's in a DNA sequence
+1. it first counts the number of 'N's and 'A's in a DNA sequence.
 2. It then looks for the longest nucleotide repeat in a DNA sequence.
 e.g: If dna =  'AACCCGCTTAAAAC'.
     The longest nucleotide repeat = 'AAAA' at location 10. A repeats 4 times
