@@ -17,6 +17,7 @@ It uses dynamic programing to find the optimal global alignment between to DNA s
 See [program](https://github.com/ioluwayo/BME-808/blob/master/LAB4/needle.py) for my implementation of the algorithm which uses path finding to achive the alignement between the sequences
  ![Alt text](images/lab4/image1.png?raw=true "Global alignment")
  ![Alt text](images/lab4/image2.png?raw=true "Basis of algorithm")
+ ![Alt text](images/lab4/image3.png?raw=true "Path finding")
  ![Alt text](images/lab4/screenshot1.png?raw=true "Sample run")
  ![Alt text](images/lab4/screenshot2.png?raw=true "Sample run")
 
