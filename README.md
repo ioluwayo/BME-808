@@ -19,7 +19,7 @@ See [program](https://github.com/ioluwayo/BME-808/blob/master/LAB4/needle.py) fo
 To use this program, you can import it as a module and then use it like
 ```
 from needle import find_global_alignment
-alignment1, alignment2, score, percentIdentity, percentScore = find_global_alignment(pathToSeq1, pathToseq2)
+alignment1, alignment2, score, percentIdentity, percentGaps = find_global_alignment(pathToSeq1, pathToseq2)
 ```
 or through the command line. See images below.
  ![Alt text](images/lab4/image1.png?raw=true "Global alignment")
