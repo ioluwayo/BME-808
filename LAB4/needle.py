@@ -64,19 +64,20 @@ def buildAlignment(seq1, seq2, direction):
                 align2+="_"
             l1+=1
             l2+=1
-        elif direction[i] == "V":
-            align1+="_"
+        elif direction[i] == "H":
             if l2 < len(seq2):
                 align2+=seq2[l2]
+            if l1>=0:
+                align1 += "_"
             l2+=1
         else:
-            if l1<len(seq1):
+            if l1< len(seq1):
                 align1+=seq1[l1]
-            align2+="_"
+            if l1>=0:
+                align2+="_"
             l1+=1
+
     return align1,align2
-
-
 
 def buildDirectionalString(matrix,gapScore):
     """
