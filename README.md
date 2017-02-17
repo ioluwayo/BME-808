@@ -1,6 +1,5 @@
 # BME-808
-This repository contains python code for the take home parts of labs in my Computations in Genetic Engineering (BME808) course at Ryerson University.
-### Lab 2 ###
+This repository contains python code for the optional parts of labs in my Computations in Genetic Engineering (BME808) course at Ryerson University. ### Lab 2 ###
 In part A of lab 2, The task is to write a python script that calculates the frequency of nuceleotide on a string.
 In part B of lab 2, The task is to write a python script that translates a nucleotide sequence into its corresponding amino acid sequence.
 see [DNA mutation](https://github.com/ioluwayo/hackerank_challenge/tree/master/dna_mutation) for a more robust implementation
